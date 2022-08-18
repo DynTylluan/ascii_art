@@ -1,14 +1,7 @@
 # ascii_art
-<PRE>Most of the art is made by by Clive Python "14jammar" in 2015/16.
 
-You are free to use the ASCII art, as long as you;
-1. Give me appropriate credit (ie link back to my website http://owlman.neocities.org)
-2. You not make money off my work
-That's it, really.
-Enjoy!
+Most of the art here has been made by Cass "Owly" Python during 2015 and 2016, mostly when she was most active on [Your World of Text](https://www.yourworldoftext.com).
 
-Oh, I also have a Pastebin.com where I upload more http://pastebin.com/u/owlman
+You are welcome to use any of the art here for any reason, so go wild, yo.
 
-{O,O}
-/)_)
- ""
+> Cass Python of [OwlyFans](https://owly.fans)
